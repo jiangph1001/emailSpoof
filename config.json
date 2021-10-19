@@ -1,0 +1,5 @@
+{
+  "email_config": "email.json",
+  "send_log_screen": 1,
+  "receive_log_screen":1
+}

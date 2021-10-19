@@ -1,3 +1,5 @@
-config.json
 readJson
 .idea
+*.log
+main
+email.json
